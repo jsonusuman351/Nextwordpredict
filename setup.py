@@ -16,7 +16,7 @@ def get_requirements(file_path: str) -> List[str]:
     return requirements
 
 setup(
-    name='',
+    name='Nextwordpredict',
     version='0.0.1',
     author='suman jaiswal',
     author_email='jsonusuman351@gmail.com',
