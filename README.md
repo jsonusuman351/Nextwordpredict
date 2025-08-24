@@ -1,0 +1,1 @@
+# next word predict project using lstm architecture
