@@ -46,10 +46,11 @@ Follow these steps to set up the project locally.
 2.  **Create and activate a virtual environment:**
     ```bash
     # Create the venv using Python 3.10
-    py -3.10 -m venv venv
+    conda create -p venv python==3.10.0
+
 
     # Activate it
-    .\venv\Scripts\activate
+    conda activate venv/
     ```
 
 3.  **Install the required packages:**
