@@ -15,7 +15,7 @@ This project is a simple implementation of a next word prediction model using a 
 
 ---
 
-### 演示 (Demo)
+### (Demo)
 
 Here's a quick look at the model in action after training:
 
@@ -112,8 +112,5 @@ Nextwordpredict/
 
 ---
 
-### 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
