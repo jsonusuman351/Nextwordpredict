@@ -19,9 +19,7 @@ This project is a simple implementation of a next word prediction model using a 
 
 Here's a quick look at the model in action after training:
 
-![GIF of the model predicting text]
-*(Pro Tip: You can record a short GIF of your terminal running `predict.py` and add it here to make your repository look very professional.)*
-
+![Image](https://github.com/user-attachments/assets/c1333d8e-0d66-4941-9497-db1d1654f4c3)
 ---
 
 ### 🛠️ Tech Stack
